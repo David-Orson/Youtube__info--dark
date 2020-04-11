@@ -65,9 +65,6 @@
   font-weight: 200;
 }
 
-.flex {
-}
-
 .menu-container {
   display: flex;
   align-items: center;
